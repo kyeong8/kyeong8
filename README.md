@@ -17,7 +17,7 @@
 <br>
 <div align=left>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeong8&layout=compact&theme=tokyonight&hide=Smalltalk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeong8&layout=compact&theme=dark&hide=Smalltalk)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkh990920)](https://solved.ac/kkh990920)
 <br>
